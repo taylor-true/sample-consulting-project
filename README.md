@@ -13,7 +13,7 @@ This report is aimed at elucidating the following concerns: 1) How students enro
 <center>
 <a href="Taylor_True_Consulting_SampleReportDeck.pdf" target="_blank">Click to download PDF.</a>
 <br><br>
-<img src="1.png" height = "450"/>
+<img src="1.png" height = "450"/><img src="2.png" height = "450"/><img src="3.png" height = "450"/>
 </center>
 <br><br>
 
